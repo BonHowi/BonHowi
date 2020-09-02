@@ -21,7 +21,16 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact)](https://github.com/BonHowi/github-readme-stats)
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+TypeScript   3 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.54 % 
+YAML         2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.17 % 
+JSON         1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Other        1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Python       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+<!--END_SECTION:waka-->
 
 ---
 
