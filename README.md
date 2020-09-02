@@ -1,4 +1,4 @@
-### Hi there, I'm Bartek - aka [BonHowi][website] 👋
+### Hi there, I'm Bartek - aka [BonHowi][linkedin] 👋
 
 
 ## I'm a Student looking for opportunities to improve my Data Science skills!
@@ -16,12 +16,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][linkedin]
 
 <br />
 <br />
 
-📊 **This week I spent my time on**
+**This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 TypeScript   3 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.54 % 
