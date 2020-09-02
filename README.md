@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowia&layout=compact)](https://github.com/BonHowi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact)](https://github.com/BonHowi/github-readme-stats)
 
 ---
 
