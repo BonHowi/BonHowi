@@ -42,11 +42,12 @@ Python       28 mins         █▒░░░░░░░░░░░░░░░
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="BonHowi's Github Stats" src="https://github-readme-stats.bonhowi.vercel.app/api?username=BonHowi&show_icons=true&hide_border=true" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact&theme=radical" />
+</a>
 </details>
 
 [instagram]: https://www.instagram.com/bonhowi/
 [linkedin]: https://www.linkedin.com/in/bartoszadamiec/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
