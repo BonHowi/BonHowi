@@ -17,6 +17,10 @@
 ### Languages and Tools:
 
 [<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][linkedin]
+[<img align="left" alt="Python" width="26px" src="https://www.marinedatascience.co/img/software/logo_python.png" />][linkedin]
+[<img align="left" alt="MSSQL" width="26px" src="https://www.claromentis.com/wp-content/uploads/2018/04/mssql-icon.png" />][linkedin]
+[<img align="left" alt="C++" width="26px" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" />][linkedin]
+
 
 <br />
 <br />
