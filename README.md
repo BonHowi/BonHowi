@@ -40,7 +40,7 @@ Python       28 mins         █▒░░░░░░░░░░░░░░░
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
