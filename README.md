@@ -4,13 +4,6 @@
 ## I'm a Student looking for opportunities to improve my Data Science skills!
 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/fcsp2ab2wc0lkmfgmf13xdtcx)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -21,6 +14,12 @@
 [<img align="left" alt="MSSQL" width="26px" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" />][linkedin]
 [<img align="left" alt="C++" width="26px" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" />][linkedin]
 
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -45,6 +44,14 @@ Python       28 mins         █▒░░░░░░░░░░░░░░░
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact&theme=radical" />
 </a>
+
+<br />
+
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/fcsp2ab2wc0lkmfgmf13xdtcx)
+
+
 
 
 [instagram]: https://www.instagram.com/bonhowi/
