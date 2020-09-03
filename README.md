@@ -13,7 +13,7 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-
+[![time tracker](https://wakatime.com/badge/github/AdamJedz/Pokemon_project.svg)](https://wakatime.com/badge/github/AdamJedz/Pokemon_project)
 <br />
 
 ### Languages and Tools:
