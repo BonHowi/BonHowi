@@ -12,7 +12,7 @@ Python     6 mins          ████▓░░░░░░░░░░░░�
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 <!--END_SECTION:waka-->
-
+*"Other" contains mostly time spent on Microsoft Office products, especially MS Excel*
 
 <br />
 
