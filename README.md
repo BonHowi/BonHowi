@@ -9,9 +9,9 @@
 ```text
 Week: 30 August, 2020 - 06 September, 2020
 
-Other      27 mins         ████████████████████▒░░░░   81.73 % 
-Python     6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other      48 mins         ██████████████████████░░░   88.58 % 
+Python     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
 *"Other" contains mostly time spent on Microsoft Office products, especially MS Excel*
