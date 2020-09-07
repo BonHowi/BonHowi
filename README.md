@@ -14,7 +14,7 @@ Python     6 mins          ███░░░░░░░░░░░░░░�
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 <!--END_SECTION:waka-->
-*"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin: *
+*"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
 
 <br />
 
