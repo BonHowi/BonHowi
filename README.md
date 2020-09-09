@@ -9,8 +9,8 @@
 ```text
 Week: 01 September, 2020 - 08 September, 2020
 
-Other      48 mins         ██████████████████████░░░   88.58 % 
-Python     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Other      3 hrs 5 mins    ███████████████████████░░   92.48 % 
+Python     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 ```
 <!--END_SECTION:waka-->
 *"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
