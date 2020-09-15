@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
-Other      3 hrs 5 mins    ███████████████████████░░   92.48 % 
-Python     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Other      9 hrs 27 mins   ████████████████████████▓   98.36 % 
+Python     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 *"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
