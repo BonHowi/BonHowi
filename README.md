@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
 Other      9 hrs 27 mins   ████████████████████████▓   98.36 % 
 Python     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
