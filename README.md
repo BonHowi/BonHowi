@@ -7,10 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2021 - 14 February, 2021
-
-Other      9 hrs 27 mins   ████████████████████████▓   98.36 % 
-Python     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 *"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
