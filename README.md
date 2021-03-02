@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
 Other      48 mins         ██████████████████████░░░   88.58 % 
 Python     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
