@@ -1,7 +1,7 @@
 ### Hi there, I'm Bartek - aka [BonHowi][linkedin] 👋
 
 
-## I'm a Student looking for opportunities to improve my Data Science skills!
+## I'm a Data Engineering student looking for opportunities to improve my Data Science skills!
 
 
 
@@ -9,7 +9,7 @@
 ```text
 Week: 05 May, 2021 - 12 May, 2021
 
-Other      48 mins         ██████████████████████░░░   88.58 % 
+Other      48 mins         ██████████████████████   88.58 % 
 Python     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 <!--END_SECTION:waka-->
