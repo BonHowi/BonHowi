@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 July, 2021 - 05 August, 2021
+Week: 31 July, 2021 - 06 August, 2021
 
 Other        2 hrs 57 mins   ███████████████████▓░░░░░   79.20 % 
 Python       44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
