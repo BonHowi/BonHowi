@@ -7,12 +7,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
+Week: 26 August, 2021 - 01 September, 2021
 
-Other        14 hrs 34 mins  ███████████████▓░░░░░░░░░   62.93 % 
-Python       8 hrs 24 mins   █████████░░░░░░░░░░░░░░░░   36.29 % 
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python       13 hrs 45 mins  █████████████▓░░░░░░░░░░░   54.95 % 
+Other        10 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   42.24 % 
+JavaScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
 *"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
