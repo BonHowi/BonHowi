@@ -22,18 +22,18 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" />][linkedin]
-[<img align="left" alt="Python" width="26px" src="https://www.marinedatascience.co/img/software/logo_python.png" />][linkedin]
-[<img align="left" alt="MSSQL" width="26px" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" />][linkedin]
-[<img align="left" alt="C++" width="26px" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" />][linkedin]
+[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][linkedin]
+[<img align="left" alt="R" width="26px" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />][linkedin]
+[<img align="left" alt="MSSQL" width="26px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][linkedin]
+[<img align="left" alt="C++" width="26px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />][linkedin]
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 <br />
 <br />
