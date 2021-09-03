@@ -2,6 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BonHowi)
 
 
+
 ## I'm a Data Engineering student looking for opportunities to improve my Data Science skills!
 
 
