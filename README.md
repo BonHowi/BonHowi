@@ -7,9 +7,9 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BonHowi)](https://github.com/anuraghazra/github-readme-stats)
-
-*"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BonHowi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<sub>*"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*</sub>
 
 <br />
 
@@ -18,6 +18,9 @@
 <br />
 
 ### Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][linkedin]
 [<img align="left" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />][linkedin]
@@ -34,6 +37,9 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&redirect=true)
 
@@ -41,4 +47,7 @@
 [instagram]: https://www.instagram.com/bonhowi/
 [linkedin]: https://www.linkedin.com/in/bartoszadamiec/
 [discord]: BonJowi#0119
+
+
+
 
