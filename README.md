@@ -1,4 +1,5 @@
 ### Hi there, I'm Bartek - aka [BonHowi][linkedin] 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BonHowi)
 
 
 ## I'm a Data Engineering student looking for opportunities to improve my Data Science skills!
@@ -37,7 +38,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 <br />
 <br />
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&redirect=true)
 
 
 [instagram]: https://www.instagram.com/bonhowi/
