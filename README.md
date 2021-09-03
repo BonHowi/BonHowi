@@ -7,7 +7,8 @@
 
 
 
-<img src="https://github.com/BonHowi/BonHowi/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BonHowi)](https://github.com/anuraghazra/github-readme-stats)
+
 *"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
 
 <br />
