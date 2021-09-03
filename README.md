@@ -6,18 +6,12 @@
 
 
 
-<!--START_SECTION:waka-->
-```text
-Week: 27 August, 2021 - 02 September, 2021
-
-Python       13 hrs 45 mins  █████████████▓░░░░░░░░░░░   54.95 % 
-Other        10 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   42.24 % 
-JavaScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/BonHowi/BonHowi/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 *"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*
+
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BonHowi&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <br />
 
@@ -38,7 +32,8 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 <br />
 <br />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&redirect=true)
 
 
 [instagram]: https://www.instagram.com/bonhowi/
