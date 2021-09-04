@@ -41,7 +41,6 @@
 <br />
 <br />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=fcsp2ab2wc0lkmfgmf13xdtcx&redirect=true)
 
 
 [instagram]: https://www.instagram.com/bonhowi/
