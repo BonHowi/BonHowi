@@ -7,19 +7,19 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BonHowi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BonHowi&layout=compact)](https://wakatime.com/@BonHowi)
 <br />
 <sub>*"Other" contains mostly time spent on Jupyter Notebook, Excel or browsing Google for solutions :grin:*</sub>
 
 <br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BonHowi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BonHowi&theme=radical&hide_border=true)](https://github.com/BonHowi)
 
 <br />
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonHowi&layout=compact)](https://github.com/BonHowi)
 
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][linkedin]
