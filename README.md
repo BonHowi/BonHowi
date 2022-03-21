@@ -47,14 +47,6 @@
 [linkedin]: https://www.linkedin.com/in/bartoszadamiec/
 [discord]: BonJowi#0119
 
-```
-foobar:~/ BonHowi$ status
-You've completed all the levels!!
 
-
-<encrypted>
-GUYREAhaXRESRUVRGR8FEwcEHx4UQkYBCgdVXQMGFwBMGQJCRgcWH1xdDwQGQkcZHwcHBAoZTUtF QVhFTFBWARMHAQJbVAdGTkVMWFsKCAcTDlRdDBVFRVEZHxcPDgoIUl0GRk5FTEtZAAMLERgeGFhB RRYKX11FTUJCDVZXRUFYRUxOUQxARRg= 
-</encrypted>
-```
 
 
