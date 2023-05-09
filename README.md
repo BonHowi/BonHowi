@@ -25,7 +25,6 @@
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][linkedin]
 [<img align="left" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />][linkedin]
 [<img align="left" alt="MSSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />][linkedin]
-[<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />][linkedin]
 
 <br />
 
@@ -46,7 +45,5 @@
 [instagram]: https://www.instagram.com/bonhowi/
 [linkedin]: https://www.linkedin.com/in/bartoszadamiec/
 [discord]: BonJowi#0119
-
-
 
 
