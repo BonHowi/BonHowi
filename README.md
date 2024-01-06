@@ -1,5 +1,4 @@
 ### Hi there, I'm Bartek - aka [BonHowi][linkedin] 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BonHowi)
 
 
 
